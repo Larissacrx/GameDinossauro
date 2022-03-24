@@ -7,3 +7,17 @@ Este é um projeto para a DIO com o objetivo de desenvolver um jogo bem simples 
      </div>
      
 ## To go into the app click <a href="https://game-dinossauro-ochre.vercel.app/"> HERE </a>
+# Tecnologias utilizadas:
+  * JavaScript <div> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </div>
+  
+  * HTML5 <div> <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></div>
+  * CSS3 <div><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></div>
+ 
+       
+       
+                               
+  
+  **Redes sociais:**
+  <div>
+  <a href="https://www.linkedin.com/in/larissacrx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
